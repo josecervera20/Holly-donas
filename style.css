@@ -1,0 +1,83 @@
+.contenedor-encabezado {
+  text-align: center;
+  background: 100% fixed no-repeat;
+  background-image: url(img/img-encabezado.jpg);
+  height: 45vh;
+  background-size: cover;
+}
+
+/*Este es un comentario*/
+
+.mensaje-bienvenida {
+  color: rgb(255, 255, 255);
+  padding-top: 2rem;
+  text-shadow: 0px 0px 10px rgba(0, 0, 0, 0.7);
+  font-family: cursive;
+}
+
+h1 {
+  font-size: 4rem !important;
+  margin: 0 0 0 0 !important;
+}
+
+.cards {
+  margin: 2rem 5rem 2rem 5rem;
+}
+
+h3 {
+  padding-bottom: 2rem;
+}
+
+.navbar .container-fluid a {
+  color: #ffffff;
+}
+
+.card {
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+#carouselExampleDark {
+  margin-left: 12%;
+  box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 10px 10px 5px 0px rgba(0, 0, 0, 0.75);
+}
+
+.menu h3 {
+  margin: 2rem 5rem 0 5rem;
+}
+
+.img-menu {
+  margin: 0rem 5rem 0rem 5rem;
+}
+
+.promociones h3 {
+  margin: 2rem 5rem 0 5rem;
+}
+
+/*Para section ubicacion*/
+.ubicacion {
+  margin: 2rem 5rem 2rem 5rem;
+}
+
+.footer {
+  text-align: center;
+  background-color: rgb(0, 0, 0, 0.8);
+  color: white;
+  padding: 1.5rem 0 1.5rem 0;
+  box-shadow: 22px 4px 30px 0px rgba(0, 0, 0, 0.75);
+  -webkit-box-shadow: 22px 4px 30px 0px rgba(0, 0, 0, 0.75);
+  -moz-box-shadow: 22px 4px 30px 0px rgba(0, 0, 0, 0.75);
+}
+
+#whatsapp a {
+  position: fixed;
+  top: 87%;
+  right: 1%;
+}
+
+#whatsapp img {
+  width: 90%;
+}
