@@ -1,7 +1,7 @@
 .contenedor-encabezado {
   text-align: center;
   background: 100% fixed no-repeat;
-  background-image: url(img/img-encabezado.jpg);
+  background-image: url(img/img-encabezado.webp);
   height: 45vh;
   background-size: cover;
 }
